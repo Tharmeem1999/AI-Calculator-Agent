@@ -68,8 +68,3 @@ The following Python packages are required for this project:
 
 - **Why UV?**  
   UV is a modern, high-performance alternative to pip, offering faster dependency resolution and installation. It simplifies project setup and ensures a clean virtual environment. Learn more at [UV’s official documentation](https://docs.astral.sh/uv/).
-
-- **Extending the Project**:  
-  - Add more tools to handle additional tasks (e.g., a weather API tool or a unit converter).  
-  - Experiment with different LLM providers by modifying the `ChatGoogleGenerativeAI` model to use another API (e.g., OpenAI’s GPT models).  
-  - Enhance the user interface by integrating a web frontend using frameworks like Flask or FastAPI.
