@@ -46,7 +46,7 @@ Here’s a step-by-step guide to setting up and running the project:
 6. **Run the Application**  
    Activate the UV virtual environment and run the script:  
    ```bash
-   uv run python main.py
+   uv run main.py
    ```  
    Interact with the assistant by typing commands (e.g., "Add 5 and 3") or general queries. Type `quit` to exit.
 
